@@ -1,233 +1,356 @@
-- eosl_date: AIR-CT2504-5-K9 2504 Wireless Controller with 5 AP Licenses
-  model: Cisco
-- eosl_date: AIR-WLC4402-25-K9 4400 Series WLAN Controller for up to 25 Lightweight
-    APs
-  model: Cisco
-- eosl_date: AIR-AP1231G-E-K9 AIRONET 1231 WIRELESS ACCESS POINT
-  model: Cisco
-- eosl_date: AIR-CAP2602E-E-K9 Aironet 2602e Wireless Access Point - 802.11
-  model: Cisco
-- eosl_date: AIR-CAP2602I-E-K9 Aironet 2602i Wireless Access Point - 802.11
-  model: Cisco
-- eosl_date: ASA-SSAIP-10-K9 ASA 5500 AIP Security Services Module 10
-  model: Cisco
-- eosl_date: ASA5510-BUN-K9 ASA 5510 Appliance with SW, 5FE, 3DES/AES
-  model: Cisco
-- eosl_date: ASA5515-IPS-K9 ASA 5515-X WITH IPS SW 6GE
-  model: Cisco
-- eosl_date: ASA5520-BUN-K9 ASA 5520 Appliance with SW, HA, 4GE+1FE, 3DES/AES
-  model: Cisco
-- eosl_date: ASA-55CSC-10-K9 ASA Content Security SSm-10 w/50 Use AV/Spy, 1YR Subscription
-  model: Cisco
-- eosl_date: WS-CE500-24TT Catalyst 24 Ethernet 10/100 & 2 10/100/1000 ports Switch
-  model: Cisco
-- eosl_date: WS-C2948G-GE-TX Catalyst 2948G-GE-TX, 48 10/100/1000 ports + 4 SFP ports
-  model: Cisco
-- eosl_date: WS-C2950-12 Catalyst 2950 12 Port Ethernet Switch
-  model: Cisco
-- eosl_date: WS-C2960-24TT-L Catalyst 2950 24 Port 10/100 + 1000BT (inc TAC,IOS)
-  model: Cisco
-- eosl_date: WS-C2950-24 Catalyst 2950 24 Port Ethernet Switch
-  model: Cisco
-- eosl_date: WS-2950T-48 Catalyst 2950 48 Port Ethernet Switch
-  model: Cisco
-- eosl_date: WS-2960G-24TC-L Catalyst 2960 24 Port 10/100/1000 Ethernet Switch
-  model: Cisco
-- eosl_date: WS-2960-48PST-L Catalyst 2960 48 Port 10/100 PoE + 2 1000BT Ethernet
-    Switch
-  model: Cisco
-- eosl_date: WS-2960G-48TC-L Catalyst 2960 48 Port 10/100/1000 Ethernet Switch
-  model: Cisco
-- eosl_date: WS-C2960S-24PD-L Catalyst 2960S 24 GigE, 2 x 10G SFP+ LAN Base
-  model: Cisco
-- eosl_date: WS-C2960S-48TD-L Catalyst 2960S 48 GigE, 2 x 10G SFP+ LAN Base
-  model: Cisco
-- eosl_date: C2960S-48TS-L Catalyst 2960S 48 GigE, 4 x 1Gb SFP
-  model: Cisco
-- eosl_date: WS-C2960S-48LPD-L Catalyst 2960S 48 GigE, PoE 370W 2 x 10G SFP+ LAN Base
-  model: Cisco
-- eosl_date: WS-CB3020 Catalyst 3020 Blade Switch 16 port 10/100/100
-  model: Cisco
-- eosl_date: WS-CBS3032-DEL Catalyst 3032 Blade Switch 16 port 10/100/100
-  model: Cisco
-- eosl_date: WS-C3512-XL-EN Catalyst 3512 12 x 10/100 + 2 x GBIC ports switch
-  model: Cisco
-- eosl_date: WS-C3524-XL-EN Catalyst 3524 24 x 10/100 + 2 x GBIC ports switch
-  model: Cisco
-- eosl_date: WS-C3548-XL-EN Catalyst 3548 XL 48 port 10/100 Switch
-  model: Cisco
-- eosl_date: WS-C3550-48-SMI Catalyst 3550
-  model: Cisco
-- eosl_date: WS-3550-24PWR-SMI Catalyst 3550
-  model: Cisco
-- eosl_date: WS-C3550-12T Catalyst 3550 10 x 10/100/1000 + 2 GBIC ports Switch
-  model: Cisco
-- eosl_date: WS-C3560-24TS-S Catalyst 3560 24 Ethernet 10/100 ports and 2 SFP-based
-    Gigabit ports
-  model: Cisco
-- eosl_date: WS-C3560-48TS-S Catalyst 3560 28 Ethernet 10/100 ports and 4 SFP-based
-    Gigabit ports
-  model: Cisco
-- eosl_date: CAT3600 Catalyst 3600
-  model: Cisco
-- eosl_date: CAT3750 Catalyst 3750
-  model: Cisco
-- eosl_date: WS-C3750G-12S-E Catalyst 3750 12 SFP + IPS Image
-  model: Cisco
-- eosl_date: WS-C3750-24PS-S Catalyst 3750 24 port multilayer switch
-  model: Cisco
-- eosl_date: WS-C3750G-24TS-S Catalyst 3750 24 port multilayer switch
-  model: Cisco
-- eosl_date: WS-C3750G-24TS-E Catalyst 3750 24 port multilayer switch
-  model: Cisco
-- eosl_date: WS-C3750-48TS-S Catalyst 3750 48 port 10/100
-  model: Cisco
-- eosl_date: WS-C3750-48PS-E Catalyst 3750 48 port 10/100
-  model: Cisco
-- eosl_date: WS-C3750-48PS-S Catalyst 3750 48 port 10/100
-  model: Cisco
-- eosl_date: WS-C3750V2-48TS-E Catalyst 3750V2 48 Port 10/100 + 4 SFP Ethernet Switch
-  model: Cisco
-- eosl_date: WS-C3750X-48T-L Catalyst 3750X 48 Port 0/100/1000 Ethernet Switch
-  model: Cisco
-- eosl_date: WS-C3750X-48P-S Catalyst 3750X 48 Port 10/100/1000 Ethernet Switch
-  model: Cisco
-- eosl_date: WS-C3750X-48PF-S Catalyst 3750X 48 Port 10/100/1000 Ethernet Switch
-  model: Cisco
-- eosl_date: WS-X4448-GB-RJ45 Catalyst 4000 48 Port 10/100/1000 Ethernet Module
-  model: Cisco
-- eosl_date: WS-X4148-RJ Catalyst 4000 48-Port 10/100BASE-TX Fast Ethernet Switching
-    Module
-  model: Cisco
-- eosl_date: WS-X4008 Catalyst 4000 AC Power Supply
-  model: Cisco
-- eosl_date: WS-X4012 Catalyst 4000 Supervisor Engine Module I
-  model: Cisco
-- eosl_date: WS-X4013 Catalyst 4000 Supervisor Engine Module II
-  model: Cisco
-- eosl_date: WS-C4003 Catalyst 4003 3 Slot Chassis
-  model: Cisco
-- eosl_date: WS-C4006 Catalyst 4006 6 Slot Chassis
-  model: Cisco
-- eosl_date: N-WS-X4014 Catalyst 4006 Supervisor Engine Module III
-  model: Cisco
-- eosl_date: PWR-C45-1000AC Catalyst 4500 1000W AC Power Supply
-  model: Cisco
-- eosl_date: WS-X4424-GB-RJ45 Catalyst 4500 24 Port 10/100/1000 Module (RJ45)
-  model: Cisco
-- eosl_date: WS-X4548-GB-RJ45 Catalyst 4500 48 Port 10/100/1000 Ethernet Module (RJ45)
-  model: Cisco
-- eosl_date: WS-C4507R Catalyst 4500 7 Slot Chassis
-  model: Cisco
-- eosl_date: CAT4503 Catalyst 4503
-  model: Cisco
-- eosl_date: WS-C4900M Catalyst 4900M Switch 2 module chassis (2U)
-  model: Cisco
-- eosl_date: WS-C4912G Catalyst 4912G Switch, Fixed 12 ports Switched 1000BaseX (GBIC)
-  model: Cisco
-- eosl_date: PWR-C49-300AC Catalyst 4948 300-Watt AC Power
-  model: Cisco
-- eosl_date: WS-C4948E Catalyst 4948 Fixed-Config 48-port 10/100/1000 Ethernet Switch
-  model: Cisco
-- eosl_date: WS-X6416-GBIC Catalyst 6000 16-port Gig-Ethernet Mod. (Req. GBICs)
-  model: Cisco
-- eosl_date: WS-X6416-GE-MT Catalyst 6000 16-port Gig-Ethernet Mod., MT-RJ
-  model: Cisco
-- eosl_date: WS-X6248-RJ-45VP Catalyst 6000 48-port 10/100 + Voice Power, RJ-45
-  model: Cisco
-- eosl_date: WS-X6408A-GBIC Catalyst 6000 8-port GE, Enhanced QoS (Req. GBICs)
-  model: Cisco
-- eosl_date: WS-X6066-SLB-APC Catalyst 6000 Content Switching Module
-  model: Cisco
-- eosl_date: WS-X6K-S2-MSFC2 Catalyst 6000 Supervisor Engine
-  model: Cisco
-- eosl_date: WS-X6K-SUP1A-2GE Catalyst 6000 Supervisor Engine1A, Enhanced QoS, 2GE
-  model: Cisco
-- eosl_date: WS-C6513 Catalyst 6500 13 Slot Chassis
-  model: Cisco
-- eosl_date: WS-X6516A-GBIC Catalyst 6500 16-port GigE Mod, Fabric Enabled
-  model: Cisco
-- eosl_date: WS-X6724-SFP Catalyst 6500 24-Port GigE Fabric Enabled
-  model: Cisco
-- eosl_date: WS-CAC-3000W Catalyst 6500 3000W AC Power Supply
-  model: Cisco
-- eosl_date: WS-6548-RJ-45 Catalyst 6500 48-port 10/100 RJ45, X-Bar
-  model: Cisco
-- eosl_date: WS-X6348-RJ-45 Catalyst 6500 48-port 10/100, Upgradable to Voice, RJ-45
-  model: Cisco
-- eosl_date: WS-X6748-GE-TX Catalyst 6500 48-port 10/100/1000 GE Mod Fabric
-  model: Cisco
-- eosl_date: WS-X6148-GE-TX Catalyst 6500 48-port 10/100/1000 GE Mod., RJ-45
-  model: Cisco
-- eosl_date: WS-X6548-GE-TX Catalyst 6500 48-Port Fabric Enabled 10/100/1000 Module
-  model: Cisco
-- eosl_date: WS-C6506 Catalyst 6500 6 slot Chassis
-  model: Cisco
-- eosl_date: WS-SUP720-3B Catalyst 6500 7600 Supervisor
-  model: Cisco
-- eosl_date: WS-SUP720 Catalyst 6500 7600 Supervisor Fabric
-  model: Cisco
-- eosl_date: WS-F6700-CFC catalyst 6500 Central Fwd Card for WS-X67xx
-  model: Cisco
-- eosl_date: WS-C6506-E Catalyst 6500 Enhanced 6 slot Chassis
-  model: Cisco
-- eosl_date: WS-X6K-S2-6408A Catalyst 6500 S2-MSFC2 and WS-X6408-GBIC
-  model: Cisco
-- eosl_date: WS-F6K-PFC3B Catalyst 6500 Sup 720 Polict Feature Card
-  model: Cisco
-- eosl_date: WS-C6506-E-FAN Catalyst 6500-E Chassis Fan Tray
-  model: Cisco
-- eosl_date: WS-C6509 Catalyst 6509 Chassis, 9 slot
-  model: Cisco
-- eosl_date: CISCO-1721 Cisco 1721 Modular Access Router
-  model: Cisco
-- eosl_date: CISCO-2500 Cisco 2500
-  model: Cisco
-- eosl_date: CISCO-2811 Cisco 2811 Integrated Services Router
-  model: Cisco
-- eosl_date: CISCO-2821 Cisco 2821 Integrated Services Router
-  model: Cisco
-- eosl_date: CISCO2901/K9 CISCO 2901 W/2 GE,4 EHWIC,2 DSP,256MB CF,512MB DRAM,IP BASE
-  model: Cisco
-- eosl_date: CISCO-2911 Cisco 2911 Integrated Services Router
-  model: Cisco
-- eosl_date: CISCO-3845 Cisco 3845 Integrated Services Router
-  model: Cisco
-- eosl_date: RSP4+ Cisco 7500 Series Route Switch Processor 4+
-  model: Cisco
-- eosl_date: CISCO-7507 Cisco 7507 7-Slot, 2 CyBus, 1 RSP2, 1 AC Power Supply
-  model: Cisco
-- eosl_date: CISCO805 Cisco 805 Router
-  model: Cisco
-- eosl_date: Cisco Aironet 1850e
-  model: Cisco
-- eosl_date: CISCO-1811/K9 Cisco 811 Dual Ethernet Security Router
-  model: Cisco
-- eosl_date: UCS-C220-M3 Cisco UCS C220 M3 1U Server
-  model: Cisco
-- eosl_date: SWS-CISCO CO-BRANDED SOFTWARE SUPPORT
-  model: Cisco
-- eosl_date: WS-G5486 GBIC 1000Base-LX/LH long haul
-  model: Cisco
-- eosl_date: WS-G5484 GBIC 1000Base-SX Short Wavelength
-  model: Cisco
-- eosl_date: GLC-SX-MM GE SFP LC Connector SX Transceiver
-  model: Cisco
-- eosl_date: MDS9222I MDS 9222i 18-port FC and 4-port GE + 1-slot Modular Switch
-  model: Cisco
-- eosl_date: DS-X9124 MDS9000 24-Port 4Gb Multilayer Fabric Switch Module
-  model: Cisco
-- eosl_date: MDS-9124 MDS9124 24 Port 4Gb FC Switch
-  model: Cisco
-- eosl_date: DS-C9216-K9 MDS9216 16 Port 2Gb Multilayer Fabric Switch
-  model: Cisco
-- eosl_date: MDS-9506 MDS9506 Multilayer Director
-  model: Cisco
-- eosl_date: WS-X6380-NAM Network Analysis Module for Catalyst 6000
-  model: Cisco
-- eosl_date: PIX-515E PIX-515 Chassis
-  model: Cisco
-- eosl_date: PIX525-UR-BUN PIX525 Unrestricted bundle
-  model: Cisco
-- eosl_date: HP-7825H3 Unified Communication Appliance (HP DL320 G3)
-  model: Cisco
+- eosl_date: 12 / 18 / 2009
+  model: 1-Port Fast Ethernet 2-Port Channelized E1 ISDN-PRI Balanced NM
+- eosl_date: 12 / 19 / 2009
+  model: 1-Port Fast Ethernet 2-Pt Channelized E1 ISDN-PRI Unbalanced NM
+- eosl_date: 12 / 20 / 2009
+  model: 1-Port Fast Ethernet 2-Port Channelized T1 ISDN-PRI NM
+- eosl_date: 12 / 21 / 2009
+  model: 1-Port Fast Ethernet 2-Port Channelized T1 ISDN-PRI with CSU NM
+- eosl_date: 12 / 22 / 2009
+  model: 1-Port Fast Ethernet 1-Port Channelized E1 ISDN-PRI Balanced NM
+- eosl_date: 12 / 23 / 2009
+  model: 1-Port Fast Ethernet 1-Port Channelized E1 ISDN-PRI Unbalanced NM
+- eosl_date: 12 / 24 / 2009
+  model: 1-Port Fast Ethernet 1-Port Channelized T1 ISDN-PRI NM
+- eosl_date: 12 / 25 / 2009
+  model: 1-Port Fast Ethernet 1-Port Channelized T1 ISDN-PRI with CSU NM
+- eosl_date: 02 / 18 / 2003
+  model: Catalyst 6500 Series Intrusion Detection System (IDSM-2) Module
+- eosl_date: 04 / 20 / 2003
+  model: Catalyst 6500 Series Intrusion Detection System (IDSM-1) Module
+- eosl_date: 03 / 01 / 2007
+  model: Catalyst 6000 Series Supervisor Module with MSFC
+- eosl_date: 06 / 27 / 2007
+  model: Catalyst 6500 Series Network Analysis Module (First Generation)
+- eosl_date: 09 / 26 / 2007
+  model: Catalyst 6500 Series Firewall Services Module
+- eosl_date: 02 / 13 / 2008
+  model: Catalyst 3900 ATM Modules
+- eosl_date: 02 / 13 / 2008
+  model: Catalyst 3900 Token Ring Copper and Fiber Modules
+- eosl_date: 02 / 13 / 2008
+  model: Catalyst 3900 Token Ring ISL Modules
+- eosl_date: 06 / 30 / 2008
+  model: Catalyst 5000 Supervisor Engine III
+- eosl_date: 06 / 30 / 2008
+  model: Catalyst 5000 Supervisor II G Engine
+- eosl_date: 06 / 30 / 2008
+  model: Catalyst 5000 Token Ring Switch Module
+- eosl_date: 12 / 09 / 2008
+  model: Catalyst 4000 Integrated Layer 3 Services Engine
+- eosl_date: 04 / 27 / 2009
+  model: Cisco Catalyst 2924 LRE XL Switch
+- eosl_date: 04 / 27 / 2009
+  model: Cisco Catalyst 2912 LRE XL Switch
+- eosl_date: 07 / 27 / 2009
+  model: Catalyst 4000 4500 Supervisor Engine III
+- eosl_date: 09 / 02 / 2009
+  model: Catalyst 4500 Access Gateway Module
+- eosl_date: 12 / 31 / 2009
+  model: Catalyst 6509-NEB Switch
+- eosl_date: 01 / 05 / 2010
+  model: Cisco Catalyst 2940-8TF Switch
+- eosl_date: 03 / 25 / 2010
+  model: Catalyst 6500 Series Supervisor Engine 1A MSFC2
+- eosl_date: 03 / 25 / 2010
+  model: Catalyst 6500 Series Supervisor Engine 1A MSFC1
+- eosl_date: 07 / 27 / 2010
+  model: Catalyst 4000 Supervisor Engine I
+- eosl_date: 04 / 26 / 2011
+  model: Catalyst Inline Power Patch Panel
+- eosl_date: 04 / 30 / 2011
+  model: Catalyst 8540 MSR Switch
+- eosl_date: 04 / 30 / 2011
+  model: Catalyst 8510 MSR Switch
+- eosl_date: 05 / 04 / 2011
+  model: Catalyst 4000 Supervisor Engine II
+- eosl_date: 05 / 31 / 2011
+  model: 7600 Catalyst 6500 IPSec VPN Services Module
+- eosl_date: 10 / 03 / 2011
+  model: Cisco Catalyst 2950 24 LRE Switch
+- eosl_date: 10 / 03 / 2011
+  model: Cisco Catalyst 2950 LRE 997 Switch
+- eosl_date: 11 / 01 / 2011
+  model: Catalyst 6509 Switch
+- eosl_date: 11 / 01 / 2011
+  model: Catalyst 6506 Switch
+- eosl_date: 11 / 01 / 2011
+  model: Catalyst 6503 Switch
+- eosl_date: 03 / 01 / 2012
+  model: Catalyst 6500 Series Supervisor Engine 2 MSFC2
+- eosl_date: 04 / 06 / 2012
+  model: Catalyst 6500 Series Wireless LAN Services Module
+- eosl_date: 10 / 13 / 2012
+  model: Cisco Catalyst 3750G-16TD Switch
+- eosl_date: 10 / 13 / 2012
+  model: Cisco Catalyst 3750G-12S Switch
+- eosl_date: 06 / 10 / 2013
+  model: Catalyst Blade Switch 3030
+- eosl_date: 10 / 30 / 2014
+  model: Catalyst 6500 Series SSL Services Module
+- eosl_date: 12 / 17 / 2014
+  model: Cisco Catalyst Express 520-24LC Switch
+- eosl_date: 12 / 17 / 2014
+  model: Cisco Catalyst Express 520-24PC Switch
+- eosl_date: 12 / 17 / 2014
+  model: Cisco Catalyst Express 520-24TT Switch
+- eosl_date: 12 / 17 / 2014
+  model: Cisco Catalyst Express 500-24PC Switch
+- eosl_date: 12 / 17 / 2014
+  model: Cisco Catalyst Express 500-24TT Switch
+- eosl_date: 12 / 18 / 2014
+  model: Cisco Catalyst Express 520-8PC Switch
+- eosl_date: 12 / 18 / 2014
+  model: Cisco Catalyst Express 520G-24TC Switch
+- eosl_date: 12 / 18 / 2014
+  model: Cisco Catalyst Express 500-24LC Switch
+- eosl_date: 12 / 18 / 2014
+  model: Cisco Catalyst Express 500G-12TC Switch
+- eosl_date: 01 / 04 / 2015
+  model: Cisco Catalyst 2940-8TT Switch
+- eosl_date: 07 / 31 / 2015
+  model: Catalyst 3750-48PS Switch
+- eosl_date: 07 / 31 / 2015
+  model: Catalyst 3750-48TS Switch
+- eosl_date: 07 / 31 / 2015
+  model: Cisco Catalyst 3750-24PS Switch
+- eosl_date: 07 / 31 / 2015
+  model: Cisco Catalyst 3750-24TS Switch
+- eosl_date: 07 / 31 / 2015
+  model: Cisco Catalyst 3560-48PS Switch
+- eosl_date: 07 / 31 / 2015
+  model: Cisco Catalyst 3560-48TS Switch
+- eosl_date: 07 / 31 / 2015
+  model: Cisco Catalyst 3560-24PS Switch
+- eosl_date: 07 / 31 / 2015
+  model: Cisco Catalyst 3560-24TS Switch
+- eosl_date: 05 / 19 / 2016
+  model: Cisco Catalyst 3750V2-24TS Switch
+- eosl_date: 06 / 30 / 2016
+  model: Cisco Catalyst 3750G-24WS Switch
+- eosl_date: 07 / 31 / 2016
+  model: Cisco Catalyst 2350-48TD-SD Switch
+- eosl_date: 08 / 15 / 2016
+  model: Catalyst 6500 Borderless Services Node
+- eosl_date: 10 / 31 / 2016
+  model: Cisco Catalyst 2975 Series Switches
+- eosl_date: 04 / 30 / 2017
+  model: Catalyst 6500 Series 7600 Series Wireless Services Module
+- eosl_date: 07 / 31 / 2017
+  model: Cisco Catalyst 2960G-48TC-L Switch
+- eosl_date: 07 / 31 / 2017
+  model: Cisco Catalyst 2960G-24TC-L Switch
+- eosl_date: 09 / 30 / 2017
+  model: Catalyst 4500 Series Supervisor II-Plus-10GE
+- eosl_date: 09 / 30 / 2017
+  model: Catalyst 3750-24FS Switch
+- eosl_date: 01 / 31 / 2018
+  model: Cisco Catalyst 3750G-48PS Switch
+- eosl_date: 01 / 31 / 2018
+  model: Cisco Catalyst 3750G-48TS Switch
+- eosl_date: 01 / 31 / 2018
+  model: Cisco Catalyst 3750G-24PS Switch
+- eosl_date: 01 / 31 / 2018
+  model: Cisco Catalyst 3750G-24T Switch
+- eosl_date: 01 / 31 / 2018
+  model: Cisco Catalyst 3750G-24TS Switch
+- eosl_date: 01 / 31 / 2018
+  model: Cisco Catalyst 3750G-24TS-1U Switch
+- eosl_date: 01 / 31 / 2018
+  model: Cisco Catalyst 3750G-12S-SD Switch
+- eosl_date: 01 / 31 / 2018
+  model: Cisco Catalyst 3750E-24PD-E Switch
+- eosl_date: 01 / 31 / 2018
+  model: Cisco Catalyst 3750E-48PD-EF Switch
+- eosl_date: 01 / 31 / 2018
+  model: Cisco Catalyst 3750E-48PD-S Switch
+- eosl_date: 01 / 31 / 2018
+  model: Cisco Catalyst 3750E-48PD-SF Switch
+- eosl_date: 01 / 31 / 2018
+  model: Cisco Catalyst 3750E-48TD-S Switch
+- eosl_date: 01 / 31 / 2018
+  model: Cisco Catalyst 3750E-24PD-S Switch
+- eosl_date: 01 / 31 / 2018
+  model: Cisco Catalyst 3750E-24TD-E Switch
+- eosl_date: 01 / 31 / 2018
+  model: Cisco Catalyst 3750E-24TD-S Switch
+- eosl_date: 01 / 31 / 2018
+  model: Cisco Catalyst 3560G-48PS Switch
+- eosl_date: 01 / 31 / 2018
+  model: Cisco Catalyst 3560G-48TS Switch
+- eosl_date: 01 / 31 / 2018
+  model: Cisco Catalyst 3560G-24PS Switch
+- eosl_date: 01 / 31 / 2018
+  model: Cisco Catalyst 3560G-24TS Switch
+- eosl_date: 01 / 31 / 2018
+  model: Cisco Catalyst 3560E-48PD-E Switch
+- eosl_date: 01 / 31 / 2018
+  model: Cisco Catalyst 3560E-48PD-EF Switch
+- eosl_date: 01 / 31 / 2018
+  model: Cisco Catalyst 3560E-48PD-S Switch
+- eosl_date: 01 / 31 / 2018
+  model: Cisco Catalyst 3560E-48PD-SF Switch
+- eosl_date: 01 / 31 / 2018
+  model: Cisco Catalyst 3560E-48TD-E Swtch
+- eosl_date: 01 / 31 / 2018
+  model: Cisco Catalyst 3560E-48TD-S Switch
+- eosl_date: 01 / 31 / 2018
+  model: Cisco Catalyst 3560E-24PD-E Switch
+- eosl_date: 01 / 31 / 2018
+  model: Cisco Catalyst 3560E-24PD-S Switch
+- eosl_date: 01 / 31 / 2018
+  model: Cisco Catalyst 3560E-24TD-E Switch
+- eosl_date: 01 / 31 / 2018
+  model: Cisco Catalyst 3560E-24TD-S Switch
+- eosl_date: 01 / 31 / 2018
+  model: Cisco Catalyst 3560E-12D-E Switch
+- eosl_date: 01 / 31 / 2018
+  model: Cisco Catalyst 3560E-12D-S Switch
+- eosl_date: 01 / 31 / 2018
+  model: Cisco Catalyst 3560E-12SD-E Switch
+- eosl_date: 01 / 31 / 2018
+  model: Cisco Catalyst 3560E-12SD-S Switch
+- eosl_date: 06 / 07 / 2018
+  model: Cisco Catalyst 3560-12PC-S Compact Switch
+- eosl_date: 07 / 29 / 2018
+  model: Cisco Catalyst 2960-8TC-S Compact Switch
+- eosl_date: 07 / 31 / 2018
+  model: Catalyst 6500 Series Network Analysis Module (NAM-1 NAM-2)
+- eosl_date: 07 / 31 / 2018
+  model: Cisco Catalyst 3560-8PC Compact Switch
+- eosl_date: 07 / 31 / 2018
+  model: Cisco Catalyst 2960-8TC-L Compact Switch
+- eosl_date: 07 / 31 / 2018
+  model: Cisco Catalyst 2960G-8TC-L Compact Switch
+- eosl_date: 07 / 31 / 2018
+  model: Cisco Catalyst 2960PD-8TT-L Compact Switch
+- eosl_date: 07 / 31 / 2018
+  model: Cisco Catalyst 2955C 12 Switch
+- eosl_date: 07 / 31 / 2018
+  model: Cisco Catalyst 2955S 12 Switch
+- eosl_date: 07 / 31 / 2018
+  model: Cisco Catalyst 2955T 12 Switch
+- eosl_date: 07 / 31 / 2018
+  model: Cisco Catalyst 2360-48TD-S
+- eosl_date: 11 / 30 / 2018
+  model: Catalyst 3020
+- eosl_date: 12 / 31 / 2018
+  model: Cisco Catalyst 3750E-48TD-E Switch
+- eosl_date: 07 / 04 / 2019
+  model: Catalyst 4000
+- eosl_date: 07 / 04 / 2019
+  model: Catalyst 4500 FE (10/100) 48 port
+- eosl_date: 10 / 31 / 2019
+  model: Cisco Catalyst 2960-48PST-L Switch
+- eosl_date: 10 / 31 / 2019
+  model: Cisco Catalyst 2960-48PST-S Switch
+- eosl_date: 10 / 31 / 2019
+  model: Cisco Catalyst 2960-48TC-L Switch
+- eosl_date: 10 / 31 / 2019
+  model: Cisco Catalyst 2960-48TC-S Switch
+- eosl_date: 10 / 31 / 2019
+  model: Cisco Catalyst 2960-48TT-L Switch
+- eosl_date: 10 / 31 / 2019
+  model: Cisco Catalyst 2960-48TT-S Switch
+- eosl_date: 10 / 31 / 2019
+  model: Cisco Catalyst 2960-24-S Switch
+- eosl_date: 10 / 31 / 2019
+  model: Cisco Catalyst 2960-24LC-S Switch
+- eosl_date: 10 / 31 / 2019
+  model: Cisco Catalyst 2960-24LT-L Switch
+- eosl_date: 10 / 31 / 2019
+  model: Cisco Catalyst 2960-24PC-L Switch
+- eosl_date: 10 / 31 / 2019
+  model: Cisco Catalyst 2960-24PC-S Switch
+- eosl_date: 10 / 31 / 2019
+  model: Cisco Catalyst 2960-24TC-L Switch
+- eosl_date: 10 / 31 / 2019
+  model: Cisco Catalyst 2960-24TC-S Switch
+- eosl_date: 10 / 31 / 2019
+  model: Cisco Catalyst 2960-24TT-L Switch
+- eosl_date: 10 / 31 / 2019
+  model: Cisco Catalyst 2950 8 LRE Switch
+- eosl_date: 10 / 31 / 2019
+  model: Catalyst 2960S
+- eosl_date: 10 / 31 / 2019
+  model: Catalyst 2960S
+- eosl_date: 01 / 31 / 2020
+  model: Catalyst 4948 (300 W AC Power)
+- eosl_date: 07 / 31 / 2020
+  model: Catalyst 6500 24 Port Fabric Enabled
+- eosl_date: 07 / 31 / 2020
+  model: Cisco Catalyst Blade Switch 3120 for HP
+- eosl_date: 07 / 31 / 2020
+  model: Catalyst 6550 24 Port Fabric Enabled
+- eosl_date: 07 / 31 / 2020
+  model: Catalyst 6550 24 Port Fabric Enabled
+- eosl_date: 10 / 30 / 2020
+  model: Cisco Catalyst 2918-24TC-C Switch
+- eosl_date: 10 / 31 / 2020
+  model: Cisco Catalyst 2918-48TC-C Switch
+- eosl_date: 10 / 31 / 2020
+  model: Cisco Catalyst 2918-48TT-C Switch
+- eosl_date: 10 / 31 / 2020
+  model: Cisco Catalyst 2918-24TT-C Switch
+- eosl_date: 01 / 28 / 2021
+  model: Catalyst 3560-X
+- eosl_date: 01 / 28 / 2021
+  model: Catalyst 3750-X
+- eosl_date: 04 / 26 / 2021
+  model: Catalyst 6500
+- eosl_date: 05 / 31 / 2021
+  model: Cisco Catalyst 3750V2-48PS Switch
+- eosl_date: 05 / 31 / 2021
+  model: Cisco Catalyst 3750V2-48TS Switch
+- eosl_date: 05 / 31 / 2021
+  model: Cisco Catalyst 3750V2-24FS Switch
+- eosl_date: 05 / 31 / 2021
+  model: Cisco Catalyst 3750V2-24PS Switch
+- eosl_date: 05 / 31 / 2021
+  model: Cisco Catalyst 3560V2-48PS Switch
+- eosl_date: 05 / 31 / 2021
+  model: Cisco Catalyst 3560V2-48TS Switch
+- eosl_date: 05 / 31 / 2021
+  model: Cisco Catalyst 3560V2-24DC Switch
+- eosl_date: 05 / 31 / 2021
+  model: Cisco Catalyst 3560V2-24PS Switch-24PS Switch
+- eosl_date: 05 / 31 / 2021
+  model: Cisco Catalyst 3560V2-24TS Switch
+- eosl_date: 05 / 31 / 2021
+  model: Catalyst 3750V2
+- eosl_date: 05 / 31 / 2021
+  model: Catalyst 3560V2
+- eosl_date: 10 / 05 / 2021
+  model: Catalyst 3750X
+- eosl_date: 10 / 05 / 2021
+  model: Catalyst 4900M
+- eosl_date: 10 / 31 / 2023
+  model: Catalyst 4500 Supervisor Engine 7L-E
+- eosl_date: 10 / 31 / 2025
+  model: Catalyst 3850 Switches
+- eosl_date: 10 / 31 / 2025
+  model: Catalyst 6880-X
+- eosl_date: 10 / 31 / 2025
+  model: Catalyst 6880-X-LE
+- eosl_date: 10 / 31 / 2025
+  model: Catalyst 6880-X-16P10G
+- eosl_date: 10 / 31 / 2025
+  model: Catalyst 6880-X-LE-16P10G
+- eosl_date: 10 / 31 / 2025
+  model: Catalyst 6816-X-LE
+- eosl_date: 10 / 31 / 2025
+  model: Catalyst 6824-X-LE-40G
+- eosl_date: 10 / 31 / 2025
+  model: Catalyst 6832-X-LE
+- eosl_date: 10 / 31 / 2025
+  model: Catalyst 6840-X-LE-40G
+- eosl_date: 10 / 31 / 2026
+  model: Catalyst 3650
+- eosl_date: 04 / 30 / 2027
+  model: Catalyst 6807-XL Modular Switch
+- eosl_date: 10 / 31 / 2027
+  model: Catalyst 2960X Product Family
+- eosl_date: 04 / 30 / 2030
+  model: Catalyst 9600 Series 48-Port 1G Linecard (C9600-LC-48S)
+- eosl_date: 12 / 31 / 2030
+  model: Catalyst C9800-40/-80 Wireless LAN Controller
